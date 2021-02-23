@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Search engine landing page template
+
+Mainly used to take advantage of multiple search API backends.
